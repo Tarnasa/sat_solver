@@ -1,0 +1,7 @@
+# Project files
+.idea/
+# Compiled python files
+*.pyc
+# Output files (Might be large)
+output/
+
