@@ -4,4 +4,6 @@
 *.pyc
 # Output files (Might be large)
 output/
+# Local scratch pad
+journal.txt
 
